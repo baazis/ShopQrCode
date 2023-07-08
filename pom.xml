@@ -8,9 +8,9 @@
 		<version>3.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dailycodework</groupId>
+	<groupId>com.baazis</groupId>
 	<artifactId>sb-qrcdoe-demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version> ̰
 	<name>sb-qrcdoe-demo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>

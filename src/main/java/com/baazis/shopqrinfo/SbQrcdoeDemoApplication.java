@@ -1,4 +1,4 @@
-package com.dailycodework.sbqrcdoedemo;
+package com.baazis.shopqrinfo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

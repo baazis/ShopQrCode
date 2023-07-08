@@ -1,0 +1,2 @@
+GET https://localhost:9192/shops
+Content-Type: application/json
